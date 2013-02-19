@@ -1,0 +1,1 @@
+In this repo I share some resources that can be useful for security testing/research.
