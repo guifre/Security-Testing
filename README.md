@@ -1,1 +1,1 @@
-In this repo I share some resources that can be useful for security testing/research.
+This is my library of security resources for testing. So far, it has dictionaries, proxies lists/utils, exploits, payloads and others.
