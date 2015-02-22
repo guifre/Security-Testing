@@ -28,7 +28,7 @@ function crawl {
 			esac
 			#echo "Target [$target] host [$3] => New target [$newTarget]";
 			crawl $newTarget $counter $3 &
-			sleep 10;
+			sleep 20;
 		fi
 	done
 }
@@ -36,5 +36,5 @@ function crawl {
 while read line; do
 	host=`echo $3 | awk -F/ '{print $3}'`;
 	crawl $line"/" 1 $line $line &
-	sleep 1;
+	sleep 10;
 done < "${feedList}"
