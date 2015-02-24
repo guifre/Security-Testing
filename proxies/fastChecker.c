@@ -141,7 +141,7 @@ void *senda(void *hos)
 int create_tcp_socket()
 {
 	int sock;
-	if((sock = socket(AF_INET, SOCK_STREAM, IPPROTO_TCP)) < 0)
+	if ((sock = socket(AF_INET, SOCK_STREAM, IPPROTO_TCP)) < 0)
 	{
 		perror("Can't create TCP socket");
 	}

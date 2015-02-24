@@ -28,7 +28,7 @@ function crawl {
 			esac
 			#echo "Target [$target] host [$3] => New target [$newTarget]";
 			crawl $newTarget $counter $3 &
-			sleep 20;
+			sleep $(($depth * 10 * $depth)); 
 		fi
 	done
 }
